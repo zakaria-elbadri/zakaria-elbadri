@@ -11,3 +11,12 @@ I love sharing my experience with others, contribute to open source projects rel
 - 💬 Ask me about: Java, Spring, Web, Mobile, RESTful APIs, Database, Architecture, Cloud, Big Data, Design Patterns, Enterprise integration, Distributed Systems, Blockchain, People Management.
 - 📫 How to reach me: catch, and follow me from the above links 👆, in addition to follow me here.
 - ⚡ Fun fact: I love ☕️, ☕️ and ☕️.
+
+**NOTE**: *Top languages does not indicate my skill level or something like that, it's a github metric of which languages I have the most code on github.*
+
+<a href="https://github.com/zakaria-elbadri/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zakaria-elbadri&count_private=true&show_icons=true&theme=radical&hide_border=false" />
+</a> 
+<a href="https://github.com/zakaria-elbadri/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakaria-elbadri&layout=compact&theme=radical&hide_border=false" />
+</a>
